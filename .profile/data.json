@@ -1,10 +1,35 @@
 {
- "key": "a09d0bce",
- "stars": 0,
- "contributions": 3,
- "repos": 4,
+ "key": "43171bcd",
+ "stars": 2,
+ "contributions": 12,
+ "repos": 9,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "JavaScript",
+   1980080
+  ],
+  [
+   "Rust",
+   857785
+  ],
+  [
+   "HTML",
+   362613
+  ],
+  [
+   "CSS",
+   328195
+  ],
+  [
+   "TeX",
+   121781
+  ],
+  [
+   "Nix",
+   2868
+  ]
+ ],
  "days": [
   [
    {
@@ -92,7 +117,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 12,
     "day": 3,
     "today": true
    },
@@ -106,8 +131,72 @@
   "current": 1,
   "longest": 1
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "hyper-lll",
+   "url": "https://github.com/YourDarkstFear/hyper-lll",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Raser",
+   "url": "https://github.com/YourDarkstFear/Raser",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
  "all": [
+  {
+   "name": "Raser",
+   "url": "https://github.com/YourDarkstFear/Raser",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "lemniscate-pcf-miner",
+   "url": "https://github.com/YourDarkstFear/lemniscate-pcf-miner",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "prime_hunter",
+   "url": "https://github.com/YourDarkstFear/prime_hunter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "hyper-lll",
+   "url": "https://github.com/YourDarkstFear/hyper-lll",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "counter-hunter",
+   "url": "https://github.com/YourDarkstFear/counter-hunter",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
   {
    "name": "YourDarkstFear",
    "url": "https://github.com/YourDarkstFear/YourDarkstFear",
