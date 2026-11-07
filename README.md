@@ -12,6 +12,8 @@
 
 <a href="https://github.com/YourDarkstFear/hyper-lll"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyper-lll-dark.svg"><img src="assets/project-hyper-lll-light.svg" width="49%" alt="hyper-lll"></picture></a>&nbsp;<a href="https://github.com/YourDarkstFear/Raser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-raser-dark.svg"><img src="assets/project-raser-light.svg" width="49%" alt="Raser"></picture></a>
 
+<a href="https://github.com/YourDarkstFear/hang-trace"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hang-trace-dark.svg"><img src="assets/project-hang-trace-light.svg" width="49%" alt="hang-trace"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

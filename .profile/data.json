@@ -1,13 +1,13 @@
 {
- "key": "827930d9",
- "stars": 2,
- "contributions": 14,
- "repos": 10,
+ "key": "b49e6e2c",
+ "stars": 3,
+ "contributions": 19,
+ "repos": 11,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1980080
+   1980649
   ],
   [
    "Rust",
@@ -24,6 +24,10 @@
   [
    "TeX",
    121781
+  ],
+  [
+   "TypeScript",
+   23196
   ],
   [
    "Nix",
@@ -137,14 +141,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 7,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [
@@ -165,6 +169,15 @@
    "stars": 2,
    "language": "JavaScript",
    "topics": []
+  },
+  {
+   "name": "hang-trace",
+   "url": "https://github.com/YourDarkstFear/hang-trace",
+   "text": "Zero-dependency utility to detect hanging/dangling Promises during development with exact caller file and line numbers.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
   }
  ],
  "all": [
@@ -175,6 +188,15 @@
    "fork": false,
    "stars": 2,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "hang-trace",
+   "url": "https://github.com/YourDarkstFear/hang-trace",
+   "text": "Zero-dependency utility to detect hanging/dangling Promises during development with exact caller file and line numbers.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
    "topics": []
   },
   {
