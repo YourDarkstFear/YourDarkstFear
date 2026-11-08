@@ -1,25 +1,25 @@
 {
- "key": "ce8d1a3c",
- "stars": 3,
- "contributions": 24,
+ "key": "895db95",
+ "stars": 4,
+ "contributions": 45,
  "repos": 12,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   2005177
+   3315793
+  ],
+  [
+   "HTML",
+   871714
   ],
   [
    "Rust",
    857785
   ],
   [
-   "HTML",
-   447261
-  ],
-  [
    "CSS",
-   328265
+   675539
   ],
   [
    "TeX",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 5,
+    "c": 26,
     "day": 8,
     "today": true
    },
@@ -140,7 +140,7 @@
   {
    "name": "Raser",
    "url": "https://github.com/YourDarkstFear/Raser",
-   "text": "",
+   "text": "Best music player with YouTube Music & SoundCloud library",
    "fork": false,
    "stars": 2,
    "language": "JavaScript",
@@ -160,9 +160,18 @@
   {
    "name": "Raser",
    "url": "https://github.com/YourDarkstFear/Raser",
-   "text": "",
+   "text": "Best music player with YouTube Music & SoundCloud library",
    "fork": false,
    "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "RaserWeb",
+   "url": "https://github.com/YourDarkstFear/RaserWeb",
+   "text": "",
+   "fork": false,
+   "stars": 1,
    "language": "JavaScript",
    "topics": []
   },
@@ -173,15 +182,6 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "RaserWeb",
-   "url": "https://github.com/YourDarkstFear/RaserWeb",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
    "topics": []
   },
   {
