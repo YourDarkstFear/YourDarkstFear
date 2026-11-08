@@ -1,13 +1,13 @@
 {
- "key": "227149cb",
+ "key": "ce8d1a3c",
  "stars": 3,
- "contributions": 19,
- "repos": 11,
+ "contributions": 24,
+ "repos": 12,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   1980649
+   2005177
   ],
   [
    "Rust",
@@ -15,11 +15,11 @@
   ],
   [
    "HTML",
-   362613
+   447261
   ],
   [
    "CSS",
-   328195
+   328265
   ],
   [
    "TeX",
@@ -27,7 +27,7 @@
   ],
   [
    "TypeScript",
-   23196
+   25507
   ],
   [
    "Nix",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 5,
     "day": 8,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
  "pins": [
@@ -173,6 +173,15 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "RaserWeb",
+   "url": "https://github.com/YourDarkstFear/RaserWeb",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
    "topics": []
   },
   {
