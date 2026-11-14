@@ -1,25 +1,25 @@
 {
- "key": "e4fc7e26",
+ "key": "b38dee62",
  "stars": 4,
- "contributions": 81,
- "repos": 13,
+ "contributions": 102,
+ "repos": 15,
  "followers": 0,
  "languages": [
   [
    "JavaScript",
-   4642759
+   4681797
   ],
   [
    "HTML",
-   1211850
+   1213687
   ],
   [
    "CSS",
-   1162205
+   1163373
   ],
   [
    "Rust",
-   859543
+   893362
   ],
   [
    "TeX",
@@ -27,7 +27,7 @@
   ],
   [
    "TypeScript",
-   27462
+   86559
   ],
   [
    "Nix",
@@ -136,21 +136,25 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 18,
     "day": 13,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 3,
+    "day": 14,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 3,
   "longest": 3
  },
  "pins": [
   {
    "name": "hyper-lll",
-   "url": "https://github.com/YourDarkstFear/hyper-lll",
+   "url": "https://github.com/tetoverse/hyper-lll",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -159,7 +163,7 @@
   },
   {
    "name": "Raser",
-   "url": "https://github.com/YourDarkstFear/Raser",
+   "url": "https://github.com/tetoverse/Raser",
    "text": "Best music player with YouTube Music & SoundCloud library",
    "fork": false,
    "stars": 2,
@@ -168,7 +172,7 @@
   },
   {
    "name": "hang-trace",
-   "url": "https://github.com/YourDarkstFear/hang-trace",
+   "url": "https://github.com/tetoverse/hang-trace",
    "text": "Zero-dependency utility to detect hanging/dangling Promises during development with exact caller file and line numbers.",
    "fork": false,
    "stars": 1,
@@ -177,7 +181,7 @@
   },
   {
    "name": "RaserNative",
-   "url": "https://github.com/YourDarkstFear/RaserNative",
+   "url": "https://github.com/tetoverse/RaserNative",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -188,7 +192,7 @@
  "all": [
   {
    "name": "Raser",
-   "url": "https://github.com/YourDarkstFear/Raser",
+   "url": "https://github.com/tetoverse/Raser",
    "text": "Best music player with YouTube Music & SoundCloud library",
    "fork": false,
    "stars": 2,
@@ -197,7 +201,7 @@
   },
   {
    "name": "RaserWeb",
-   "url": "https://github.com/YourDarkstFear/RaserWeb",
+   "url": "https://github.com/tetoverse/RaserWeb",
    "text": "",
    "fork": false,
    "stars": 1,
@@ -206,7 +210,7 @@
   },
   {
    "name": "hang-trace",
-   "url": "https://github.com/YourDarkstFear/hang-trace",
+   "url": "https://github.com/tetoverse/hang-trace",
    "text": "Zero-dependency utility to detect hanging/dangling Promises during development with exact caller file and line numbers.",
    "fork": false,
    "stars": 1,
@@ -214,8 +218,26 @@
    "topics": []
   },
   {
+   "name": "rasecorp",
+   "url": "https://github.com/tetoverse/rasecorp",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "tetoverse",
+   "url": "https://github.com/tetoverse/tetoverse",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "RaserNative",
-   "url": "https://github.com/YourDarkstFear/RaserNative",
+   "url": "https://github.com/tetoverse/RaserNative",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -224,7 +246,7 @@
   },
   {
    "name": "horizon",
-   "url": "https://github.com/YourDarkstFear/horizon",
+   "url": "https://github.com/tetoverse/horizon",
    "text": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
    "fork": true,
    "stars": 0,
@@ -233,7 +255,7 @@
   },
   {
    "name": "lemniscate-pcf-miner",
-   "url": "https://github.com/YourDarkstFear/lemniscate-pcf-miner",
+   "url": "https://github.com/tetoverse/lemniscate-pcf-miner",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -242,7 +264,7 @@
   },
   {
    "name": "prime_hunter",
-   "url": "https://github.com/YourDarkstFear/prime_hunter",
+   "url": "https://github.com/tetoverse/prime_hunter",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -251,7 +273,7 @@
   },
   {
    "name": "hyper-lll",
-   "url": "https://github.com/YourDarkstFear/hyper-lll",
+   "url": "https://github.com/tetoverse/hyper-lll",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -260,7 +282,7 @@
   },
   {
    "name": "counter-hunter",
-   "url": "https://github.com/YourDarkstFear/counter-hunter",
+   "url": "https://github.com/tetoverse/counter-hunter",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -269,7 +291,7 @@
   },
   {
    "name": "YourDarkstFear",
-   "url": "https://github.com/YourDarkstFear/YourDarkstFear",
+   "url": "https://github.com/tetoverse/YourDarkstFear",
    "text": "My GitHub profile",
    "fork": false,
    "stars": 0,
@@ -278,7 +300,7 @@
   },
   {
    "name": "homework_01",
-   "url": "https://github.com/YourDarkstFear/homework_01",
+   "url": "https://github.com/tetoverse/homework_01",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -287,7 +309,7 @@
   },
   {
    "name": "MCriot",
-   "url": "https://github.com/YourDarkstFear/MCriot",
+   "url": "https://github.com/tetoverse/MCriot",
    "text": "simple minecraft spambot written in nodejs.",
    "fork": true,
    "stars": 0,
@@ -296,7 +318,7 @@
   },
   {
    "name": "gxmods",
-   "url": "https://github.com/YourDarkstFear/gxmods",
+   "url": "https://github.com/tetoverse/gxmods",
    "text": "Documentation for GX mods",
    "fork": true,
    "stars": 0,

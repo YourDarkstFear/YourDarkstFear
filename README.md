@@ -10,14 +10,14 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/YourDarkstFear/hyper-lll"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyper-lll-dark.svg"><img src="assets/project-hyper-lll-light.svg" width="49%" alt="hyper-lll"></picture></a>&nbsp;<a href="https://github.com/YourDarkstFear/Raser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-raser-dark.svg"><img src="assets/project-raser-light.svg" width="49%" alt="Raser"></picture></a>
+<a href="https://github.com/tetoverse/hyper-lll"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyper-lll-dark.svg"><img src="assets/project-hyper-lll-light.svg" width="49%" alt="hyper-lll"></picture></a>&nbsp;<a href="https://github.com/tetoverse/Raser"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-raser-dark.svg"><img src="assets/project-raser-light.svg" width="49%" alt="Raser"></picture></a>
 
-<a href="https://github.com/YourDarkstFear/hang-trace"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hang-trace-dark.svg"><img src="assets/project-hang-trace-light.svg" width="49%" alt="hang-trace"></picture></a>&nbsp;<a href="https://github.com/YourDarkstFear/RaserNative"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rasernative-dark.svg"><img src="assets/project-rasernative-light.svg" width="49%" alt="RaserNative"></picture></a>
+<a href="https://github.com/tetoverse/hang-trace"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hang-trace-dark.svg"><img src="assets/project-hang-trace-light.svg" width="49%" alt="hang-trace"></picture></a>&nbsp;<a href="https://github.com/tetoverse/RaserNative"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rasernative-dark.svg"><img src="assets/project-rasernative-light.svg" width="49%" alt="RaserNative"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<a href="https://metawka.github.io/expressive-profile/?from=YourDarkstFear"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+<a href="https://metawka.github.io/expressive-profile/?from=tetoverse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
